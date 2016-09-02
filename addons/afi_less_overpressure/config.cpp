@@ -21,13 +21,13 @@ class CfgWeapons
 	class cannon_120mm: CannonCore {
 		ace_overpressure_priority = 1;
 		ace_overpressure_angle = 45;
-		ace_overpressure_range = 35
+		ace_overpressure_range = 30;
 		ace_overpressure_damage = 0.5;
 	};
 	class cannon_125mm: CannonCore {
 		ace_overpressure_priority = 1;
 		ace_overpressure_angle = 45;
-		ace_overpressure_range = 30;
+		ace_overpressure_range = 35;
 		ace_overpressure_damage = 0.5;
 	};
 	class cannon_105mm: CannonCore {
