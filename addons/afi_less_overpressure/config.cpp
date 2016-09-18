@@ -16,7 +16,7 @@ class CfgPatches {
 	};
 };
 
-class CfgWeapons
+class CfgWeapons {
 	class CannonCore;
 	class cannon_120mm: CannonCore {
 		ace_overpressure_priority = 1;
